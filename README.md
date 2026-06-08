@@ -6,6 +6,8 @@
 ![scikit-learn](https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange.svg)
 ![Plotly](https://img.shields.io/badge/Visualization-Plotly-purple.svg)
 
+🌐 **Live Dashboard**: [https://e-commerce-business-intelligence-sales-analytics-platform-lgt6.streamlit.app/](https://e-commerce-business-intelligence-sales-analytics-platform-lgt6.streamlit.app/)
+
 ## 🎯 Business Problem & Context
 E-commerce businesses generate massive amounts of data across multiple touchpoints (orders, payments, logistics, reviews). The challenge lies in synthesizing this fragmented data into actionable insights. This project simulates a production-grade Business Intelligence Platform using the Olist Brazilian E-Commerce dataset. 
 
